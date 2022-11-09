@@ -1,7 +1,8 @@
 {
   "ExpandedNodes": [
     "",
-    "\\RealEstate.UILayer"
+    "\\RealEstate.UILayer",
+    "\\RealEstate.UILayer\\Controllers"
   ],
   "SelectedNode": "\\RealEstate.UILayer.sln",
   "PreviewInSolutionExplorer": false
