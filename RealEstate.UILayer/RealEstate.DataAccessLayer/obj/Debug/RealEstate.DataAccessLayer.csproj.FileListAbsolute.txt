@@ -1,0 +1,15 @@
+B:\Yemek Tarifi Sitesi\RealEstate\RealEstate\RealEstate.UILayer\RealEstate.DataAccessLayer\bin\Debug\RealEstate.DataAccessLayer.dll.config
+B:\Yemek Tarifi Sitesi\RealEstate\RealEstate\RealEstate.UILayer\RealEstate.DataAccessLayer\bin\Debug\RealEstate.DataAccessLayer.dll
+B:\Yemek Tarifi Sitesi\RealEstate\RealEstate\RealEstate.UILayer\RealEstate.DataAccessLayer\bin\Debug\RealEstate.DataAccessLayer.pdb
+B:\Yemek Tarifi Sitesi\RealEstate\RealEstate\RealEstate.UILayer\RealEstate.DataAccessLayer\bin\Debug\EntityFramework.dll
+B:\Yemek Tarifi Sitesi\RealEstate\RealEstate\RealEstate.UILayer\RealEstate.DataAccessLayer\bin\Debug\EntityFramework.SqlServer.dll
+B:\Yemek Tarifi Sitesi\RealEstate\RealEstate\RealEstate.UILayer\RealEstate.DataAccessLayer\bin\Debug\RealEstate.EntityLayer.dll
+B:\Yemek Tarifi Sitesi\RealEstate\RealEstate\RealEstate.UILayer\RealEstate.DataAccessLayer\bin\Debug\RealEstate.EntityLayer.pdb
+B:\Yemek Tarifi Sitesi\RealEstate\RealEstate\RealEstate.UILayer\RealEstate.DataAccessLayer\bin\Debug\RealEstate.EntityLayer.dll.config
+B:\Yemek Tarifi Sitesi\RealEstate\RealEstate\RealEstate.UILayer\RealEstate.DataAccessLayer\bin\Debug\EntityFramework.xml
+B:\Yemek Tarifi Sitesi\RealEstate\RealEstate\RealEstate.UILayer\RealEstate.DataAccessLayer\bin\Debug\EntityFramework.SqlServer.xml
+B:\Yemek Tarifi Sitesi\RealEstate\RealEstate\RealEstate.UILayer\RealEstate.DataAccessLayer\obj\Debug\RealEstate.DataAccessLayer.csproj.AssemblyReference.cache
+B:\Yemek Tarifi Sitesi\RealEstate\RealEstate\RealEstate.UILayer\RealEstate.DataAccessLayer\obj\Debug\RealEstate.DataAccessLayer.csproj.CoreCompileInputs.cache
+B:\Yemek Tarifi Sitesi\RealEstate\RealEstate\RealEstate.UILayer\RealEstate.DataAccessLayer\obj\Debug\RealEstate.DataAccessLayer.csproj.CopyComplete
+B:\Yemek Tarifi Sitesi\RealEstate\RealEstate\RealEstate.UILayer\RealEstate.DataAccessLayer\obj\Debug\RealEstate.DataAccessLayer.dll
+B:\Yemek Tarifi Sitesi\RealEstate\RealEstate\RealEstate.UILayer\RealEstate.DataAccessLayer\obj\Debug\RealEstate.DataAccessLayer.pdb

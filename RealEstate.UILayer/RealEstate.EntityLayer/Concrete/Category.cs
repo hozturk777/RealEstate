@@ -1,12 +1,21 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.ComponentModel.DataAnnotations;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
 namespace RealEstate.EntityLayer.Concrete
 {
-    internal class Category
+    public class Category
     {
+        [Key]
+        public int CategorId { get; set; }
+
+        public string CategoryName { get; set; }
+
+        public string CategoryDetails { get; set; }
+
+        public bool CategoryStatus { get; set; }
     }
 }
