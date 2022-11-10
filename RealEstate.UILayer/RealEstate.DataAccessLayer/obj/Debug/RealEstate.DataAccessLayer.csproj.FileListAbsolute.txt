@@ -13,3 +13,6 @@ B:\Yemek Tarifi Sitesi\RealEstate\RealEstate\RealEstate.UILayer\RealEstate.DataA
 B:\Yemek Tarifi Sitesi\RealEstate\RealEstate\RealEstate.UILayer\RealEstate.DataAccessLayer\obj\Debug\RealEstate.DataAccessLayer.csproj.CopyComplete
 B:\Yemek Tarifi Sitesi\RealEstate\RealEstate\RealEstate.UILayer\RealEstate.DataAccessLayer\obj\Debug\RealEstate.DataAccessLayer.dll
 B:\Yemek Tarifi Sitesi\RealEstate\RealEstate\RealEstate.UILayer\RealEstate.DataAccessLayer\obj\Debug\RealEstate.DataAccessLayer.pdb
+B:\Yemek Tarifi Sitesi\RealEstate\RealEstate\RealEstate.UILayer\RealEstate.DataAccessLayer\obj\Debug\RealEstate.DataAccessLayer.Migrations.mig_add_new_table.resources
+B:\Yemek Tarifi Sitesi\RealEstate\RealEstate\RealEstate.UILayer\RealEstate.DataAccessLayer\obj\Debug\RealEstate.DataAccessLayer.csproj.GenerateResource.cache
+B:\Yemek Tarifi Sitesi\RealEstate\RealEstate\RealEstate.UILayer\RealEstate.DataAccessLayer\obj\Debug\RealEstate.DataAccessLayer.Migrations.mig_new_table2.resources

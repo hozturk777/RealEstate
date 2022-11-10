@@ -51,8 +51,16 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Concrete\Address.cs" />
     <Compile Include="Concrete\Category.cs" />
+    <Compile Include="Concrete\Contact.cs" />
+    <Compile Include="Concrete\Customer.cs" />
+    <Compile Include="Concrete\Feature.cs" />
+    <Compile Include="Concrete\FeatureService.cs" />
     <Compile Include="Concrete\Product.cs" />
+    <Compile Include="Concrete\SocialMedia.cs" />
+    <Compile Include="Concrete\Subscribe.cs" />
+    <Compile Include="Concrete\Testimonial.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>

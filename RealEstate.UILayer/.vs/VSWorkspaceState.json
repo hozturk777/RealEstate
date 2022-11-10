@@ -1,6 +1,8 @@
 {
   "ExpandedNodes": [
     "",
+    "\\RealEstate.EntityLayer",
+    "\\RealEstate.EntityLayer\\Concrete",
     "\\RealEstate.UILayer",
     "\\RealEstate.UILayer\\Controllers"
   ],

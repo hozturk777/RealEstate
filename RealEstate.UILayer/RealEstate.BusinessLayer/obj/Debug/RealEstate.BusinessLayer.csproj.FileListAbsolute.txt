@@ -1,0 +1,15 @@
+B:\Yemek Tarifi Sitesi\RealEstate\RealEstate\RealEstate.UILayer\RealEstate.BusinessLayer\bin\Debug\RealEstate.BusinessLayer.dll
+B:\Yemek Tarifi Sitesi\RealEstate\RealEstate\RealEstate.UILayer\RealEstate.BusinessLayer\bin\Debug\RealEstate.BusinessLayer.pdb
+B:\Yemek Tarifi Sitesi\RealEstate\RealEstate\RealEstate.UILayer\RealEstate.BusinessLayer\bin\Debug\RealEstate.DataAccessLayer.dll
+B:\Yemek Tarifi Sitesi\RealEstate\RealEstate\RealEstate.UILayer\RealEstate.BusinessLayer\bin\Debug\RealEstate.EntityLayer.dll
+B:\Yemek Tarifi Sitesi\RealEstate\RealEstate\RealEstate.UILayer\RealEstate.BusinessLayer\bin\Debug\EntityFramework.dll
+B:\Yemek Tarifi Sitesi\RealEstate\RealEstate\RealEstate.UILayer\RealEstate.BusinessLayer\bin\Debug\RealEstate.DataAccessLayer.pdb
+B:\Yemek Tarifi Sitesi\RealEstate\RealEstate\RealEstate.UILayer\RealEstate.BusinessLayer\bin\Debug\RealEstate.DataAccessLayer.dll.config
+B:\Yemek Tarifi Sitesi\RealEstate\RealEstate\RealEstate.UILayer\RealEstate.BusinessLayer\bin\Debug\RealEstate.EntityLayer.pdb
+B:\Yemek Tarifi Sitesi\RealEstate\RealEstate\RealEstate.UILayer\RealEstate.BusinessLayer\bin\Debug\RealEstate.EntityLayer.dll.config
+B:\Yemek Tarifi Sitesi\RealEstate\RealEstate\RealEstate.UILayer\RealEstate.BusinessLayer\bin\Debug\EntityFramework.xml
+B:\Yemek Tarifi Sitesi\RealEstate\RealEstate\RealEstate.UILayer\RealEstate.BusinessLayer\obj\Debug\RealEstate.BusinessLayer.csproj.AssemblyReference.cache
+B:\Yemek Tarifi Sitesi\RealEstate\RealEstate\RealEstate.UILayer\RealEstate.BusinessLayer\obj\Debug\RealEstate.BusinessLayer.csproj.CoreCompileInputs.cache
+B:\Yemek Tarifi Sitesi\RealEstate\RealEstate\RealEstate.UILayer\RealEstate.BusinessLayer\obj\Debug\RealEstate.BusinessLayer.csproj.CopyComplete
+B:\Yemek Tarifi Sitesi\RealEstate\RealEstate\RealEstate.UILayer\RealEstate.BusinessLayer\obj\Debug\RealEstate.BusinessLayer.dll
+B:\Yemek Tarifi Sitesi\RealEstate\RealEstate\RealEstate.UILayer\RealEstate.BusinessLayer\obj\Debug\RealEstate.BusinessLayer.pdb
